@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<a href="https://app.daily.dev/jimmyregime"><img src="https://api.daily.dev/devcards/8caccdbcd4834c8baa1d6dea6e4482fa.png?r=5qc" width="400" alt="Synplex's Dev Card"/></a>
+
 <!--
 **jimmyregime/jimmyregime** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
