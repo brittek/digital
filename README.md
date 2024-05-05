@@ -44,7 +44,7 @@
 
 <h2 align="center">Connect with me</h2>
 <p align="center">
-<a href="https://www.linkedin.com/in/j-britton-sydney/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/brittek/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
 </p>
 
 <a href="https://app.daily.dev/jimmyregime"><img src="https://api.daily.dev/devcards/8caccdbcd4834c8baa1d6dea6e4482fa.png?r=5qc" width="400" alt="Synplex's Dev Card"/></a>
