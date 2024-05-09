@@ -1,10 +1,9 @@
 <div style="text-align: center;">
   ## Brittek Digital
 
+  **Welcome to Brittek Digital's official GitHub profile!** We're committed to crafting digital excellence through superior services in web design, UI/UX, and software development.
+
   ![Brittek Digital Logo](https://i.ibb.co/XbrDv5d/3.png)
-
-
-**Welcome to Brittek Digital's official GitHub profile!** We're committed to crafting digital excellence through superior services in web design, UI/UX, and software development.
 
 ## 📋 Our Key Services
 
