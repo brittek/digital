@@ -1,4 +1,4 @@
-<div style="text-align: center;">
+<div align="center">
 
   ## Brittek Digital
 
@@ -53,9 +53,11 @@
 
 ## 📊 My Stats
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=brittek&show_icons=true&locale=en&theme=vue-dark&layout=compact)  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=brittek&show_icons=true&locale=en&theme=vue-dark)  
-![Streak Stats](https://streak-stats.demolab.com?user=brittek&theme=vue-dark&mode=weekly)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=brittek&show_icons=true&locale=en&theme=vue-dark&layout=compact" alt="Top Languages"/>  
+  <img src="https://github-readme-stats.vercel.app/api?username=brittek&show_icons=true&locale=en&theme=vue-dark" alt="GitHub Stats"/>  
+  <img src="https://streak-stats.demolab.com?user=brittek&theme=vue-dark&mode=weekly" alt="Streak Stats"/>
+</p>
 
 ---
 
