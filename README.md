@@ -77,7 +77,9 @@
 
 ## 🏆 My Dev Card
 
-[![BRITTEK's Dev Card](https://api.daily.dev/devcards/8caccdbcd4834c8baa1d6dea6e4482fa.png?r=5qc)](https://app.daily.dev/brittek)
+<p align="center">
+  <a href="https://app.daily.dev/brittek"><img src="https://api.daily.dev/devcards/8caccdbcd4834c8baa1d6dea6e4482fa.png?r=5qc" alt="BRITTEK's Dev Card" width="250" style="border-radius: 10px;"/></a>
+</p>
 
 ---
 
