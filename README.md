@@ -44,10 +44,16 @@
 ## 📞 Let's Connect
 
 - 🌐 [Website](https://brittek.digital)
-- 📧 [Contact Us](mailto:contact@brittek.digital)
-- 💬 [Twitter](https://twitter.com/)
+- 📧 [Contact Us](mailto:info@brittek.digital)
+- 💬 [Twitter](https://twitter.com/brittekdigital)
 - 📸 [Instagram](https://instagram.com/brittekdgtl)
-- 💼 [LinkedIn](https://www.linkedin.com/in/brittek/)
+- 💼 [LinkedIn](https://au.linkedin.com/in/brittek)
+- 📌 [Pinterest](https://pinterest.com/brittekdigital/)
+- 🎥 [YouTube](https://www.youtube.com/@BrittekDigital)
+- 📦 [Gumroad](https://brittek.gumroad.com/)
+- 🖌️ [Figma](https://www.figma.com/@brittek)
+- 💰 [Paypal](https://paypal.me/BrittekDigtl)
+- 🤖 [ChatGPT](https://chatgpt.com/g/g-cnm8xm1MC-brittek-digital-design-and-development-assistant)
 
 ---
 
@@ -92,4 +98,5 @@ Contributions, issues, and feature requests are welcome! Check our [issues page]
 ---
 
 © [Brittek Digital](https://brittek.digital) - All Rights Reserved
+
 </div>
