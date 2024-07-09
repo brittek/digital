@@ -2,7 +2,7 @@
 
   ## Brittek™: Concept Innovation and Execution
 
-[![Brittek-Logo-PNG](https://i.ibb.co/YN3XTy6/13-1.png)(https://brittek.digital)
+![Brittek-Logo-PNG](https://i.ibb.co/YN3XTy6/13-1.png)(https://brittek.digital)
 
   **Brittek Digital Development and Design**
 
